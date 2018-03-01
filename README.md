@@ -29,7 +29,7 @@ $ oc version
 [![](https://badge.imagelayers.io/danielwhatmuff/openshift-oc-docker:latest.svg)](https://imagelayers.io/?images=danielwhatmuff/openshift-oc-docker:latest 'Get your own badge on imagelayers.io')
 
 ```bash
-$ docker pull danielwhatmuff/openshift-oc-docker
+$ docker pull rgroult2/openshift-oc-docker
 ```
 
 ### Contributing
