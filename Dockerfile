@@ -2,7 +2,7 @@ FROM danielwhatmuff/alpine-glibc-docker
 
 MAINTAINER "Daniel Whatmuff" <danielwhatmuff@gmail.com>
 
-ENV OS_CLI_VERSION v1.1.3
+ENV OS_CLI_VERSION v1.13.1
 ENV OS_TAG cffae05
 
 RUN apk-install curl ca-certificates && \
